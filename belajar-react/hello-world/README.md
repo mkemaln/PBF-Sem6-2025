@@ -95,12 +95,15 @@ gambar pada tahap percobaan ke-3!
 3. Bukti ScreenShot
 
 Membuat Project React
+
 ![](../../bukti-laporan/p2.1.png)
 
 Berhasil membuat project React
+
 ![](../../bukti-laporan/p2.2.png)
 
 Berhasil menjalankan kode awal
+
 ![](../../bukti-laporan/p2.3.png)
 
 ## Jawaban Praktikum 3
