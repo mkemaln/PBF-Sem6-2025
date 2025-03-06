@@ -46,7 +46,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Jawaban Praktikum 1
 Bukti Screenshot Setup Git, VS Code dan Node.js
-![](../../bukti-laporan/p1.png)
+![](bukti-laporan/p1.png)
 
 Jelaskan kegunaan masing-masing dari Git, VS Code dan NodeJS yang telah Anda install 
 pada sesi praktikum ini! 
@@ -95,20 +95,19 @@ gambar pada tahap percobaan ke-3!
 3. Bukti ScreenShot
 
 Membuat Project React
-
-![](../../bukti-laporan/p2.1.png)
+![](bukti-laporan/p2.1.png)
 
 Berhasil membuat project React
 
-![](../../bukti-laporan/p2.2.png)
+![](bukti-laporan/p2.2.png)
 
 Berhasil menjalankan kode awal
 
-![](../../bukti-laporan/p2.3.png)
+![](bukti-laporan/p2.3.png)
 
 ## Jawaban Praktikum 3
 Bukti Screenshot
-![](../../bukti-laporan/p3.png)
+![](bukti-laporan/p3.png)
 
 ## Jawaban Praktikum 4
 1. Untuk apakah kegunaan sintaks user.imageUrl?
@@ -116,4 +115,4 @@ Bukti Screenshot
     **Jawab:** sintaks tersebut berguna untuk mengembalikan field imageUrl dari variable user dimana isinya adalah gambar.
 
 2. Bukti Screenshot
-![](../../bukti-laporan/p4.png)
+![](bukti-laporan/p4.png)

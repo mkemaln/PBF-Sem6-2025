@@ -28,6 +28,9 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <footer>
+          <p>&copy; {new Date().getFullYear()} Your Company. All rights reserved.</p>
+        </footer>
       </body>
     </html>
   );
